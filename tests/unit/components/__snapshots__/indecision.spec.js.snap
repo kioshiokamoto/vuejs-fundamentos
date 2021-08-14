@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en componente Indecision match con snapshot 1`] = `
+<!--v-if-->
+<div class="bg-dark"></div>
+<div class="indecision-container"><input type="text" placeholder="Realiza una pregunta">
+  <p>Recuerda terminar con un signo de interrogación (?)</p>
+  <div>
+    <!--v-if-->
+    <!--v-if-->
+  </div>
+</div>
+`;
